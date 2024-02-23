@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/ikony">
+        <file>folder.png</file>
+        <file>close.png</file>
+        <file>diskette.png</file>
+        <file>settings.png</file>
+        <file>rgb.png</file>
+        <file>eyes.png</file>
+        <file>tv.png</file>
+        <file>brightness.png</file>
+        <file>image.png</file>
+        <file>colour.png</file>
+        <file>ycbr.png</file>
+        <file>rotate.png</file>
+        <file>scale.png</file>
+        <file>average.png</file>
+        <file>gaussian.png</file>
+        <file>median.png</file>
+        <file>prewitt.png</file>
+        <file>canny.png</file>
+        <file>sobel.png</file>
+        <file>closeimg.png</file>
+        <file>open.png</file>
+        <file>gradient.png</file>
+        <file>dilation.png</file>
+        <file>erosion.png</file>
+    </qresource>
+</RCC>
